@@ -4,13 +4,14 @@ function criaCartao(categoria, pergunta, resposta) {
     cartao.className = 'cartao';
 }
 
-cartao.innerHTML = 
+cartao.innerHTML = ``
 <div class="catao_conteudo">
-    <h3>Programação</h3>
+    <h3>${categoria}</h3>
     <div class="cartao_conteudo_pergunta">
-        <p>O que é javacript ?</p>
+        <p>${pergunta}</p>
     </div>
     <div class="cartao_conteudo_resposta">
-        <p>O javacript é uma linguagem de Programação</p>
+        <p>${resposta}</p>
     </div>
 </div>
+ ``
