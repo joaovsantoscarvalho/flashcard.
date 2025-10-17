@@ -1,35 +1,35 @@
 criaCartao(
-    'Categoria'
-    'Pergunta'
-    'Resposta'
+    'Categoria',
+    'Pergunta',
+    'Resposta',
 )
 
 criaCartao(
-    'Categoria'
-    'Pergunta'
-    'Resposta'
+    'Categoria',
+    'Pergunta',
+    'Resposta',
 )
 
 criaCartao(
-    'Categoria'
-    'Pergunta'
-    'Resposta'
+    'Categoria',
+    'Pergunta',
+    'Resposta',
 )
 
 criaCartao(
-    'Categoria'
-    'Pergunta'
-    'Resposta'
+    'Categoria',
+    'Pergunta',
+    'Resposta',
 )
 
 criaCartao(
-    'Categoria'
-    'Pergunta'
-    'Resposta'
+    'Categoria',
+    'Pergunta',
+    'Resposta',
 )
 
 criaCartao(
-    'Categoria'
-    'Pergunta'
+    'Categoria',
+    'Pergunta',
     'Resposta'
 )
