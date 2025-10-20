@@ -101,7 +101,8 @@ footer p {
     }
 
     .cartao {
-        flex: 1 0 calc(100% - 1rem);
+        flex: 1 0 calc(40% - 1rem);
+        height: 45vw;
     }
 
     .cartao_coneudo h3 {
