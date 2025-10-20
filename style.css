@@ -25,7 +25,7 @@ body {
 }
 
 .cartao_conteudo {
-    background-color: var(--card-font-color);
+    background-color: var(--card-front-color);
     text-align: center;
     height: 100%;
     transform-style: preserve-3d;
@@ -105,7 +105,7 @@ footer p {
         height: 45vw;
     }
 
-    .cartao_coneudo h3 {
+    .cartao_conteudo h3 {
         font-size: 3vw;
     }
 
