@@ -5,7 +5,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Atletismo',
+    'Alimentação.',
     'Qual distância oficial de uma maratona?',
     'A distância oficial é de 42,195 quilômetros',
 )
