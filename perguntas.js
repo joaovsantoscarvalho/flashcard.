@@ -5,21 +5,21 @@ criaCartao(
 )
 
 criaCartao(
-    'Alimentação.',
+    'Atletismo.',
     'Qual distância oficial de uma maratona?',
     'A distância oficial é de 42,195 quilômetros',
 )
 
 criaCartao(
-    'Atletismo',
-    'O que um atleta deve comer antes de um treino ou uma competição importante',
+    'Alimetação',
+    'O que um atleta deve comer antes de um treino ou uma competição importante?',
     'carboiratos, por ser uma das principais fontes de energia',
 )
 
 criaCartao(
-    'Atletismo',
-    'qual a diferença de um velocista para um meio-fundista e um fundista',
-    'A distância o velocista corre até 400m e o meio-fundista de 800m a 3.000m e fundista 5.000m e 10.000m  ',
+    'Alimentação',
+    'O que é carb-loading?',
+    'É uma estrategia nutricional usada por atletas com objetivo de aumentar a ingestõa de carboidrato',
 )
 
 criaCartao(
