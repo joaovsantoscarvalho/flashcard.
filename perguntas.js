@@ -24,12 +24,12 @@ criaCartao(
 
 criaCartao(
     'Atletismo',
-    '',
-    '',
+    'O que é periodização?',
+    'É uma organização estratégica e estruturada do treinamento ao longo do tempo.',
 )
 
 criaCartao(
-    'Atletismo',
-    '',
-    ''
+    'Alimentação',
+    'Qula o pricipal objetivo da refeição pós treino?',
+    'Repor energia e reparar o musculo'
 )
