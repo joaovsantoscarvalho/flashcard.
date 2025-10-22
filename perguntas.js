@@ -18,8 +18,8 @@ criaCartao(
 
 criaCartao(
     'Atletismo',
-    '',
-    '',
+    'qual a diferença de um velocista para um meio-fundista e um fundista',
+    'A distância o velocista corre até 400m e o meio-fundista de 800m a 3.000m e fundista 5.000m e 10.000m  ',
 )
 
 criaCartao(
