@@ -1,35 +1,35 @@
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Atletismo',
+    'Quem é o recordista mundial dos 100m?',
+    'Usain Bolt, com o tempo e 9,58 segundos, alcançado em 2009',
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Atletismo',
+    'Qual distância oficial de uma maratona?',
+    'A distância oficial é de 42,195 quilômetros',
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Atletismo',
+    'O que um atleta deve comer antes de um treino ou uma competição importante',
+    'carboiratos, por ser uma das principais fontes de energia',
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Atletismo',
+    '',
+    '',
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Atletismo',
+    '',
+    '',
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Atletismo',
+    '',
+    ''
 )
